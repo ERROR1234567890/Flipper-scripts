@@ -1,0 +1,294 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "action.apply" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anwenden" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Apply" } }
+      }
+    },
+    "action.camera" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Buchstaben mit Kamera scannen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Scan letters with camera" } }
+      }
+    },
+    "action.cancel" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Abbrechen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cancel" } }
+      }
+    },
+    "action.done" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Fertig" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Done" } }
+      }
+    },
+    "action.filter" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Filter" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Filter" } }
+      }
+    },
+    "action.share" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Teilen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Share" } }
+      }
+    },
+    "action.solve" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Lösen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Solve" } }
+      }
+    },
+    "action.sort" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Sortieren" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Sort" } }
+      }
+    },
+    "app.title" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wort-Entwirrer" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Word Unscrambler" } }
+      }
+    },
+    "camera.choosePhoto" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Foto auswählen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Choose Photo" } }
+      }
+    },
+    "camera.noCameraAvailable" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Keine Kamera auf diesem Gerät/Simulator verfügbar. Wähle stattdessen ein Foto deiner Buchstabensteine." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No camera available on this device/simulator. Choose a photo of your letter tiles instead." } }
+      }
+    },
+    "camera.recognizing" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Buchstaben werden erkannt…" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Recognizing letters…" } }
+      }
+    },
+    "definition.networkError" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Definition konnte nicht geladen werden" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Couldn't load definition" } }
+      }
+    },
+    "definition.networkErrorDescription" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Überprüfe deine Verbindung und versuche es erneut." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Check your connection and try again." } }
+      }
+    },
+    "definition.notFound" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Keine Definition gefunden" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No definition found" } }
+      }
+    },
+    "definition.notFoundDescription" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Für „%@“ existiert kein Wörterbucheintrag." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No dictionary entry exists for '%@'." } }
+      }
+    },
+    "favorites.empty" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Noch keine Favoriten" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No favorites yet" } }
+      }
+    },
+    "filter.contains" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Enthält" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Contains" } }
+      }
+    },
+    "filter.exactLength" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Genaue Länge" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Exact length" } }
+      }
+    },
+    "filter.length" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Länge" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Length" } }
+      }
+    },
+    "filter.maxLength" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Maximale Länge" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Maximum length" } }
+      }
+    },
+    "filter.minLength" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Mindestlänge" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Minimum length" } }
+      }
+    },
+    "filter.pattern" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Muster" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Pattern" } }
+      }
+    },
+    "filter.patternHelp" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Verwende _ für unbekannte Buchstaben, z.B. passt _a__e auf ein 5-Buchstaben-Wort mit 'a' an zweiter und 'e' an letzter Stelle." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Use _ for unknown letters, e.g. _a__e matches a 5-letter word with 'a' second and 'e' last." } }
+      }
+    },
+    "filter.reset" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Filter zurücksetzen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reset filters" } }
+      }
+    },
+    "filter.startsWith" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Beginnt mit" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Starts with" } }
+      }
+    },
+    "filter.text" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Text" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Text" } }
+      }
+    },
+    "filter.title" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Filter" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Filters" } }
+      }
+    },
+    "history.clearAll" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Alle löschen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clear All" } }
+      }
+    },
+    "history.empty" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Noch kein Verlauf" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No history yet" } }
+      }
+    },
+    "history.results" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Ergebnisse" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "results" } }
+      }
+    },
+    "input.placeholder" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Buchstaben eingeben, ? für Joker" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Enter letters, ? for blank" } }
+      }
+    },
+    "language.english" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Englisch" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "English" } }
+      }
+    },
+    "language.german" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Deutsch" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "German" } }
+      }
+    },
+    "results.empty" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Noch keine Wörter" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No words yet" } }
+      }
+    },
+    "results.emptyDescription" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Gib Buchstaben ein und tippe auf Lösen." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Enter some letters and tap Solve." } }
+      }
+    },
+    "settings.about" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Über" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "About" } }
+      }
+    },
+    "settings.dictionaryLanguage" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wörterbuchsprache" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Dictionary language" } }
+      }
+    },
+    "settings.dictionaryLanguageHelp" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Ändert, welche Wortliste, Punktetabelle und Definitionsabfragen zum Lösen verwendet werden. Das ist unabhängig von der Anzeigesprache der App." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Changes which word list, scoring table, and definition lookups are used for solving. This is separate from the app's display language." } }
+      }
+    },
+    "settings.wordLists" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Quellen der Wortlisten" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Word list sources" } }
+      }
+    },
+    "share.format" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Gefundene Wörter: %@" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Words found: %@" } }
+      }
+    },
+    "sort.alphabetical" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "A-Z" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "A-Z" } }
+      }
+    },
+    "sort.length" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Länge" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Length" } }
+      }
+    },
+    "sort.score" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Punkte" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Score" } }
+      }
+    },
+    "tab.favorites" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Favoriten" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Favorites" } }
+      }
+    },
+    "tab.history" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Verlauf" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "History" } }
+      }
+    },
+    "tab.settings" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Einstellungen" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings" } }
+      }
+    },
+    "tab.unscramble" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Entwirren" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Unscramble" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
